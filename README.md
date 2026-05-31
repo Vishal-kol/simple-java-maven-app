@@ -14,4 +14,4 @@ you'll be creating yourself during the tutorial and the `jenkins/scripts` subdir
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
-echo "Webhook Test" >> README.md
+echo "Webhook Test" >> README.md ..
